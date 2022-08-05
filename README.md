@@ -24,3 +24,24 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ![](https://github.com/PranaMohanty13/PreWork_CodePath/blob/main/WalkThrough.gif)
+
+## Notes
+
+- I needed to use the "android:src" instead of the defaulted one in the program 
+- My version didnot autofill the programming statements so hard coding it took some effort
+
+## License
+
+    Copyright [2022] [Prana Ranjan Mohanty]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
